@@ -2,7 +2,7 @@
 // 2) реализовать модуль calculator
 // 3) каждая функция действия (add, sub, div, mult) должна быть в отдельном файле
 
-import * as calculator from "./calculator.js";
+import * as calculator from "./js/calculator.js";
 
 console.log(calculator.div(28, 2))
 console.log(calculator.add(10, 2))
